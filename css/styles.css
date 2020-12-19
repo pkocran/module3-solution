@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+.collapse.in{
+	background: gold;
+	color: black;
+}
+
+.p-3{
+	padding: 1rem;
+}
+
+.m-3{
+	margin: 1rem;
+}
